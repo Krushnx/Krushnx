@@ -9,6 +9,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Instagram-c14438?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/itskrushnanagare "Connect via Instagram")
 
 ## Things I use on a daily basis
+<p>
 <img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=blue" alt="C logo" title="HTML5" height="25" />
 <img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=blue" alt="CPP logo" title="HTML5" height="25" />
 <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=jn" alt="CPP logo" title="HTML5" height="25" />
@@ -29,6 +30,7 @@
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 <img src="https://img.shields.io/badge/Linux-282C34?logo=Linux&logoColor=k" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 <img src="https://img.shields.io/badge/Canva-282C34?logo=canva&logoColor=k" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+</p>
 
 
 ## ⚡ GitHub Stats
