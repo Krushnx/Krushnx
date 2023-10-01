@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Krushna%20Nagare-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/krushna-nagare/ "Connect on LinkedIn")
 [![Codechef Badge](https://img.shields.io/badge/-Codechef-0078FF?style=flat&logo=Codechef&logoColor=white)](https://www.codechef.com/users/krushna6 "Connect on Codechef")
 [![Github Badge](https://img.shields.io/badge/-Github-0078FF?style=flat&logo=Github&logoColor=white)](https://github.com/Krushnx "Connect on Github")
-[![Geeksforgeeks Badge](https://img.shields.io/badge/-Geeksforgeeks-0078FF?style=flat&logo=Geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/krushna6/ "View My GFG profile")
+[![Geeksforgeeks Badge](https://img.shields.io/badge/-Geeksforgeeks-green?style=flat&logo=Geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/krushna6/ "View My GFG profile")
 [![Leetcode Badge](https://img.shields.io/badge/-Leetcode-0072b1?style=flat&logo=Leetcode&logoColor=white)](https://leetcode.com/krushn/ "View My Leetcode profile")
 [![Gmail Badge](https://img.shields.io/badge/-Instagram-c14438?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/itskrushnanagare "Connect via Instagram")
 
