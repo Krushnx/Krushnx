@@ -9,6 +9,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-Instagram-c14438?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/itskrushnanagare "Connect via Instagram")
 
 ## Things I use on a daily basis
+
+### Frontend
+<img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Boostrap" width="50px" style="padding-right:10px;" src="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
+
 <p>
 <img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=blue" alt="C logo" title="HTML5" height="25" />
 <img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=blue" alt="CPP logo" title="HTML5" height="25" />
