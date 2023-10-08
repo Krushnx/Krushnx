@@ -25,6 +25,7 @@
 <img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-plain.svg" />
+<img align="left" alt="C" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-plain.svg" />
 <img align="left" alt="Express" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 
 
@@ -38,14 +39,7 @@
 
 
 
-<br/>
 
-### Services
-
-
-<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" />
-<img align="left" alt="Firebase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /><br />
 
 <br/>
 
@@ -54,7 +48,10 @@
 <img align="left" alt="Postman" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220038329-e5213d83-ec34-4a82-9647-1b70ff8f2bfe.png" />
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" />
 
-<img align="left" alt="Canva" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/canva/canva-original.svg" /><br />
+<img align="left" alt="Canva" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/canva/canva-original.svg" />
+<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="VS Code" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Firebase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /><br />
 
 <br/>
 
