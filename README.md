@@ -2,7 +2,8 @@
 
 
 # 💫 About Me:
-🔭 I'm currently learning : NextJS & Tailwaind CSS<br>💬  Ask me about : MERN Stack<br>🌱 Checkout my Portfolio : <a herf="https://krushna-porfolio.web.app">Portfolio</a> /<br>📬 Reach me Here : contact.nagare@gmail.com<br>📄 My Resume : https://docs.google.com/document/d/1Obr1iH8PLEOMrElYPqVd-4PSlTqbVSxu4vuaeOikO84/
+🔭 I'm currently learning : NextJS & Tailwaind CSS<br>💬  Ask me about : MERN Stack<br>🌱 Checkout my Portfolio : [Portfolio](https://krushna-porfolio.web.app/)
+ /<br>📬 Reach me Here : contact.nagare@gmail.com<br>📄 My Resume : [Resume](https://docs.google.com/document/d/1Obr1iH8PLEOMrElYPqVd-4PSlTqbVSxu4vuaeOikO84/)
 
 ## 🌐 Socials:
 [![Gmail Badge](https://img.shields.io/badge/-mail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contact.nagare@gmail.com "Connect via Email")
